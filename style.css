@@ -1,0 +1,48 @@
+html,
+body,
+header,
+#intro {
+  height:100%
+}
+
+#intro {
+  background-image: url('./2022-0323-nick-1028.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 55vh;
+  /* opacity: 0.7; */
+}
+
+#name{
+  font-size: 2rem;
+  font-weight: bold;
+  color: #0A2463;
+  font-family: 'Vujahday Script', serif;
+  text-shadow: 2px 2px lightskyblue;
+}
+
+
+.center{
+  justify-content: center;
+}
+
+.indent{
+  text-indent: 3rem;
+}
+
+.project-cards{
+  margin-top: 10px;
+}
+
+.blue{
+  background-color:#0A2463 !important
+}
+
+h1 {
+  color:#ffffff;
+  text-shadow: 2px 2px black;
+  background-color: rgba(0,0,0,.05);
+  margin-right: 10px;
+  padding: 5px;
+
+}
