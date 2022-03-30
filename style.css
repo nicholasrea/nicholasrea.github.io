@@ -43,6 +43,11 @@ header,
 
 }
 
+.bio {
+  margin-top: 3rem;
+  text-align: center;
+}
+
 .blue{
   background-color:#0A2463 !important
 }
